@@ -1,35 +1,26 @@
 
-<!---
-Fill out the information below
--->
+<!---Fill out the information below-->
 
 **Dataset Description:**
-<!---
-Description of data
--->
+<!---Description of data-->
+
+**Dates:**
+<!---Specify time range of the dataset-->
 
 **Purpose:**
-<!---
-Purpose of data collection
--->
+<!---Purpose of data collection-->
 
 **Researcher(s):**
 
 **Folder name:**
-<!---
-What is the name of the folder for this dataset?
--->
+<!---What is the name of the folder for this dataset?-->
 
 **Comments:**
-<!---
-Add any additional information of importance.
--->
+<!---Add any additional information of importance.-->
 
 
-## Todo:
-<!---
-The Macrostrat team will update these fields. Please do not edit them
--->
+## To do:
+<!---Check boxes as tasks are completed-->
 
 - [ ] Standardize data
 - [ ] Push data to MIT computer
