@@ -1,4 +1,4 @@
-# Burwell processing
+# Tidmarsh data processing
 
 ## Workflow
 **Note:** The [brackets] in the example script indicate portions that must be replaced with specific directory paths or names specific to unique map sources. For example, a `path` might look like `~/Desktop/Folder`
